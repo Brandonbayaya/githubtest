@@ -1,0 +1,14 @@
+﻿.container {
+    margin:auto;
+    padding:50px 200px;
+}
+.profilepic{
+    float:right;
+    margin:0 150px ;
+    width:300px;
+    border-radius:600px 2100px 300px;
+}
+.logo1{
+    width:30px;
+    margin:0 5px;
+}

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\img\\Brandon logo.png",
+      "PackagePath": "staticwebassets\\img\\Brandon logo.png"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\img\\formal.png",
+      "PackagePath": "staticwebassets\\img\\formal.png"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\img\\picture1.JPG",
+      "PackagePath": "staticwebassets\\img\\picture1.JPG"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\img\\prictureessss.jpg",
+      "PackagePath": "staticwebassets\\img\\prictureessss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\logo\\c-sharp.png",
+      "PackagePath": "staticwebassets\\logo\\c-sharp.png"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\logo\\css-3.png",
+      "PackagePath": "staticwebassets\\logo\\css-3.png"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\logo\\html.png",
+      "PackagePath": "staticwebassets\\logo\\html.png"
+    },
+    {
+      "Id": "C:\\Users\\JBB\\source\\repos\\test4\\test4\\wwwroot\\logo\\sql-server.png",
+      "PackagePath": "staticwebassets\\logo\\sql-server.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.test4.props",
+      "PackagePath": "build\\test4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.test4.props",
+      "PackagePath": "buildMultiTargeting\\test4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.test4.props",
+      "PackagePath": "buildTransitive\\test4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.test4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
